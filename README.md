@@ -1,4 +1,4 @@
-Week 14 Homework:  JavaScript
+**Week 14 Homework:  JavaScript**
 
 Background:  For a collection of eye-witness reports of UFO sightings, allow users to filter this collection (table) to find those sightings they are intersted in seeing.
 
